@@ -57,3 +57,18 @@ li {
 
 @media screen and (max-device-width:850px) and (orientation:landscape) {}
 
+@media screen and (max-width: 600px) {
+  
+  h1 {
+    margin-bottom: 8vh;
+    font-size: 16px;
+    letter-spacing: 0em;
+  }
+  
+  a {
+    font-size: 30px;
+    line-height: 140%;
+    letter-spacing: -.02em;
+  }
+
+}
