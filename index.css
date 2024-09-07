@@ -2,14 +2,13 @@
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
-  background-color: rgb(247, 247, 247);;
+  background-color: rgb(247, 247, 247);
 }
 
 @font-face {
   font-family: "BeVietnamPro";
   src:
-  url('../fonts/BeVietnamPro-Bold.woff2') format('woff2'),
-  url('../fonts/BeVietnamPro-Bold.woff') format('woff');
+  url('../fonts/BeVietnamPro-Bold.ttf') format('tff'),
 }
 
 body {
